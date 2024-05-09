@@ -17,9 +17,10 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am an undergratue student at the [University of Michigan](https://umich.edu/), pursuing degree of Computer Science focusing in Robotics with Math minor.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I feel fortuntate to work in [The Lab for Progress](https://progress.eecs.umich.edu/) directed by Prof. [Chad Jenkins](https://web.eecs.umich.edu/~ocj/) In the lab, we aim to investigate method for robot to perceive and reason the world to better assist people in daily life. Besides, I also work closely with the Ph.D. studnet [Joey Wilson](https://joeywilsoniv.com/) and Prof. [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/) in the [CURLY](https://curly.engin.umich.edu/) lab. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests mainly lie in **robot perception** for better decision-making and planning, especially **computer vision** and **mapping**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+“君子和而不同” -- "Scholars seek harmony in diversity". Therefore, I'm excited to make friends with diversified interest and background, form collabration, and pursue great ideas. Feel free to contact me through email or WeChat: 982185256.
