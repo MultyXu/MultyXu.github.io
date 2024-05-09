@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I am an undergratue student at the [University of Michigan](https://umich.edu/), pursuing degree of Computer Science focusing in Robotics with Math minor.
 
-I feel fortuntate to work in [The Lab for Progress](https://progress.eecs.umich.edu/) directed by Prof. [Chad Jenkins](https://web.eecs.umich.edu/~ocj/) In the lab, we aim to investigate method for robot to perceive and reason the world to better assist people in daily life. Besides, I also work closely with the Ph.D. studnet [Joey Wilson](https://joeywilsoniv.com/) and Prof. [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/) in the [CURLY](https://curly.engin.umich.edu/) lab. 
+I feel fortuntate to work in [The Lab for Progress](https://progress.eecs.umich.edu/) directed by Prof. [Chad Jenkins](https://web.eecs.umich.edu/~ocj/) In the lab, we aims to discover methods for computational reasoning and perception that will enable robots to effectively assist people in common human environments. Besides, I also work closely with the Ph.D. studnet [Joey Wilson](https://joeywilsoniv.com/) advised Prof. [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/) in the [CURLY](https://curly.engin.umich.edu/) lab. 
 
 My research interests mainly lie in **robot perception** for better decision-making and planning, especially **computer vision** and **mapping**.
 
