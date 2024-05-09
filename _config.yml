@@ -231,6 +231,7 @@ exclude:
   # some pages that I'm not using 
   - _pages/dropdown.md
   - _pages/blog.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
