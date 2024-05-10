@@ -23,4 +23,4 @@ I feel fortuntate to work in [The Lab for Progress](https://progress.eecs.umich.
 
 My research interests mainly lie in **robot perception** for better decision-making and planning, especially **computer vision** and **mapping**.
 
-“君子和而不同” -- "Scholars seek harmony in diversity". Therefore, I'm excited to make friends with diversified interest and background, form collabration, and pursue great ideas. Feel free to contact me through [email](rhxu@umich.edu).
+“君子和而不同” -- "Scholars seek harmony in diversity". Therefore, I'm excited to make friends with diversified interest and background, form collabration, and pursue great ideas. Feel free to contact me through [email](mailto:rhxu@umich.edu).
