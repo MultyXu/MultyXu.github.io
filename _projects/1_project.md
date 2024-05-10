@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Stein Variational Belief Propagation for Multi-Robot Coordination
+description: RA-L Research Project
+img: assets/img/publication_preview/svbp.png
 importance: 1
+redirect: https://progress.eecs.umich.edu/projects/stein-bp/
 category: work
 related_publications: true
 ---

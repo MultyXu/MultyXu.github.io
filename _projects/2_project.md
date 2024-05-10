@@ -1,8 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Splat & Sculpt: Single-View 3D Reconstruction
+via Gaussian Sculpting Networks
+description: Using Gaussian Splatting to reconsturct 3D representation through one image
+img: assets/img/splat.png
+redirect: /assets/pdf/Zero_Shot_Gaussian_Splats.pdf
 importance: 2
 category: work
 giscus_comments: true
