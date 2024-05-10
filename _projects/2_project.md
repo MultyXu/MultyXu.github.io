@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Splat & Sculpt:: Single-View 3D Reconstruction via Gaussian Sculpting Networks
-description: Using Gaussian Splatting to reconsturct 3D representation through one image
+title: Single-View 3D Reconstruction 
+description: Splat & Sculpt:Single-View 3D Reconstruction via Gaussian Sculpting Networks
 img: assets/img/splat.png
 redirect: /assets/pdf/Zero_Shot_Gaussian_Splats.pdf
 importance: 2
