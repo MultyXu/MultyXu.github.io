@@ -3,7 +3,7 @@ layout: page
 title: Single-View 3D Reconstruction 
 description: Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks
 img: assets/img/splat.png
-redirect: /assets/pdf/Zero_Shot_Gaussian_Splats.pdf
+redirect: https://arxiv.org/abs/2409.07245
 importance: 3
 category: work
 giscus_comments: true
