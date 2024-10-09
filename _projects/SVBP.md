@@ -3,7 +3,7 @@ layout: page
 title: Multi-Robot System
 description: Stein Variational Belief Propagation for Multi-Robot Coordination
 img: assets/img/publication_preview/svbp.png
-importance: 1
+importance: 2
 redirect: https://progress.eecs.umich.edu/projects/stein-bp/
 category: work
 related_publications: true
