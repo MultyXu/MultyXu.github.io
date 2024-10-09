@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Band practice at</p>
-    <p>SMTD, University of Michigan</p>
+    <p>Band practice at SMTD,</p>
+    <p>University of Michigan,</p>
     <p>Ann Arbor, MI 48105</p>
 
 news: true # includes a list of news items
