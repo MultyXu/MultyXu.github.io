@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to RA-L! :tada:
+Our work [Stein Variational Belief Propagation for Multi-Robot Coordination](https://progress.eecs.umich.edu/projects/stein-bp/) is accepted to RA-L! :tada:
