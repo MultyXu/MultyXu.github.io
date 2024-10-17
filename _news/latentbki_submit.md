@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [Latent BKI](/projects) has been submitted to RA-L for review.
+Our work [Latent BKI](https://arxiv.org/abs/2410.11783) has been submitted to RA-L for review.
