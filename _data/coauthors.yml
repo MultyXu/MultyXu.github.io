@@ -35,5 +35,9 @@
 
 # my coauthors
 "jana":
-  - firstname: ["Jana", "Jana Pavlasek"]
+  - firstname: ["Jana", "Jana Pavlasek", "Pavlasek, Jana"]
     url: https://janapavlasek.com/
+
+"anthony":
+  - firstname: ["Anthony", "Anthony Opipari"]
+    url: https://topipari.com/
