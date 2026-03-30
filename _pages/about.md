@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a graduate stuent in [Laboratory for Information & Decision Systems](https://lids.mit.edu/) (LIDS) and [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) (AeroAstro) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/). 
+I am a graduate student in [Laboratory for Information & Decision Systems](https://lids.mit.edu/) (LIDS) and [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) (AeroAstro) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/). 
 
 My research interests mainly lie in **robot perception** for better scene to inform decision-making. Especially, I'm interested in the intersection of **probability theory** and **deep learning**, aiming to bring working robots into human environments. 
 
