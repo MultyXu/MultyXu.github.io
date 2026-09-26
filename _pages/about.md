@@ -29,9 +29,11 @@ latest_posts:
 
 I am a second year graduate student in [Laboratory for Information & Decision Systems](https://lids.mit.edu/) (LIDS) and [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) (AeroAstro) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/).
 
-My research interests lie in **sptial AI and perception** for robots to better understand its surrounding and make informed decision. 
+My research interests lie in **sptial AI and perception** for robots to better understand its surrounding and make informed decision.
+
 <!-- Especially, I'm interested in the intersection of **deep learning** and **probability theory**,  -->
-I'm especially interested in **sptial representations** for robot autonomy, such as scen graphs, and 
+
+I'm especially interested in **sptial representations** for robot autonomy, such as scen graphs, and
 aiming to bring working robots into complex everyday environments.
 
 Before joingng MIT, I was an undergratue student at the [University of Michigan](https://umich.edu/), pursuing degree of Computer Science focusing on Robotics. I feel fortuntate to work in [CURLY](https://curly.engin.umich.edu/) lab directed by Prof. [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/). We aims to discover methods for computational reasoning and perception that will enable robots to effectively assist people in common human environments. Besides, I also work closely with Prof. [Chad Jenkins](https://web.eecs.umich.edu/~ocj/) in [The Lab for Progress](https://progress.eecs.umich.edu/).
