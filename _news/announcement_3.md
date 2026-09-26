@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper submitted and is under review! :satisfied:
+One paper submitted and is under review!

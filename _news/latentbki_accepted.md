@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [Latent BKI](https://ieeexplore.ieee.org/document/10876603) has been accpeted by RA-L.
+Our work [LatentBKI: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces With Quantifiable Uncertainty](https://ieeexplore.ieee.org/document/10876603) has been accpeted by RA-L.

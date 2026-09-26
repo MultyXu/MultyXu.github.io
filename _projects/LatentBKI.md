@@ -5,6 +5,6 @@ description: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces
 redirect: https://ieeexplore.ieee.org/document/10876603
 img: assets/img/publication_preview/latentbki.png
 importance: 1
-category: work
+category: research
 related_publications: true
 ---

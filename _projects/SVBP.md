@@ -5,7 +5,7 @@ description: Stein Variational Belief Propagation for Multi-Robot Coordination
 img: assets/img/publication_preview/svbp.png
 importance: 2
 redirect: https://progress.eecs.umich.edu/projects/stein-bp/
-category: work
+category: research
 related_publications: true
 ---
 

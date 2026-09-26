@@ -5,7 +5,7 @@ description: Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpt
 img: assets/img/splat.png
 redirect: https://arxiv.org/abs/2409.07245
 importance: 3
-category: work
+category: research
 giscus_comments: true
 ---
 
