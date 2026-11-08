@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate student at MIT <br> Robotics, Computer Sciense, <a href='https://aeroastro.mit.edu/'>AeroAstro</a>.
+subtitle: PhD student at MIT <br> Robotics, Computer Sciense, <a href='https://aeroastro.mit.edu/'>AeroAstro</a>.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second year graduate student in [Laboratory for Information & Decision Systems](https://lids.mit.edu/) (LIDS) and [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) (AeroAstro) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/).
+I am a second year student in [Laboratory for Information & Decision Systems](https://lids.mit.edu/) (LIDS) and [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) (AeroAstro) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/).
 
 My research interests lie in **spatial AI and perception** for robots to better understand its surrounding and make informed decision.
 I'm especially interested in methods for building rich **spatial representations** for robot autonomy, such as scen graphs, and
